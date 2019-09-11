@@ -27,7 +27,7 @@ gem 'simple_form', '~> 3.2', '>= 3.2.1'
 #gem bootstrap-sass
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 # Use ActiveModel has_secure_password
-gem 'devise', '~> 4.1', '>= 4.1.1'
+gem 'devise', '~> 4.7'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use Unicorn as the app server
